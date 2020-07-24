@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a)
+a) O(n)
 
 
-b)
+b) O(n * log(n)) = O(nlog(n))
 
 
-c)
+c) O(1^n)
 
 ## Exercise II
 
